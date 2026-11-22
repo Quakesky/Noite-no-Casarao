@@ -1,0 +1,15 @@
+NOITE NO CASARÃO 5.8 — ATMOSFERA SONORA
+
+Novidades: painel de diálogo sem esticar, apenas turno atual/anterior; Diário guarda tudo; música original, chuva, corvos, coruja, uivo, passos, porta e trovões.
+
+PARA ATUALIZAR SEU JOGO NA CLOUDFLARE:
+1. Extraia este ZIP.
+2. Envie os arquivos e pastas extraídos para o repositório GitHub já conectado à Cloudflare (substitua public/index.html e inclua public/audio/).
+3. Faça Commit changes. Aguarde a implantação automática da Cloudflare.
+4. Abra o endereço habitual do jogo, use Ctrl+F5 e clique em Entrar/Continuar. Os navegadores desbloqueiam áudio ao clicar.
+5. No menu AJUSTES, regule volumes ou use o botão 🔊 para silenciar.
+
+NÃO É NECESSÁRIO CRIAR NOVA CONTA NEM ALTERAR O WRANGLER.
+Os arquivos de áudio são originais e gratuitos; não exigem APIs adicionais.
+
+Mais instruções: README.md.
