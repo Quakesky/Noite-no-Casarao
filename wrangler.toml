@@ -1,0 +1,16 @@
+# Publicação em UM só Worker: jogo + IA. Plano Workers Free.
+name = "noite-no-casarao-gratis"
+main = "src/worker.js"
+compatibility_date = "2026-11-20"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+run_worker_first = ["/api/*"]
+
+# A Cloudflare conecta automaticamente este recurso à conta gratuita.
+[ai]
+binding = "AI"
+
+[vars]
+AI_MODEL = "@cf/google/gemma-4-26b-a4b-it"
