@@ -1,0 +1,1 @@
+Noite no Casarão 6.1 — substitua public/index.html no mesmo repositório. Não altere a API nem o Worker.
